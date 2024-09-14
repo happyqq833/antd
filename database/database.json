@@ -1,0 +1,182 @@
+{
+  "book-room": [
+    {
+      "id": "14ae",
+      "time": "14 giờ",
+      "fullname": "Nguyễn Thị Thu Hiền",
+      "date": [
+        "24/08/2024",
+        "24/09/2024"
+      ],
+      "gift": "Mũ",
+      "services": [
+        "Xe máy"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "2328",
+      "name": "311",
+      "quantityBed": 3,
+      "quantityPeople": "3",
+      "description": "he he",
+      "utils": [
+        "wifi"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "880f",
+      "name": "309",
+      "quantityBed": 5,
+      "quantityPeople": "5",
+      "description": "he he",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ]
+    },
+    {
+      "id": "97f1",
+      "name": "202",
+      "quantityBed": 2,
+      "quantityPeople": "2",
+      "description": "VIP",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "185c",
+      "name": "200",
+      "quantityBed": 3,
+      "quantityPeople": "3",
+      "description": "he he",
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": false,
+      "typeRoom": true
+    }
+  ],
+  "date":[
+    {
+        "date": "01-2023",
+        "quantity": 7455
+    },
+    {
+        "date": "02-2023",
+        "quantity": 8276
+    },
+    {
+        "date": "03-2023",
+        "quantity": 6415
+    },
+    {
+        "date": "04-2023",
+        "quantity": 7617
+    },
+    {
+        "date": "05-2023",
+        "quantity": 8380
+    },
+    {
+        "date": "06-2023",
+        "quantity": 9585
+    },
+    {
+        "date": "07-2023",
+        "quantity": 10620
+    },
+    {
+        "date": "08-2023",
+        "quantity": 41211
+    }
+],
+"nguyenlieu":[
+  {
+    "year": "2001",
+    "value": 55,
+    "category": "Lỏng"
+  },
+  {
+    "year": "2001",
+    "value": 56,
+    "category": "Rắn"
+  },
+  {
+    "year": "2001",
+    "value": 57,
+    "category": "Khí"
+  },
+  {
+    "year": "2002",
+    "value": 58,
+    "category": "Lỏng"
+  },
+  {
+    "year": "2002",
+    "value": 59,
+    "category": "Rắn"
+  },
+  {
+    "year": "2002",
+    "value": 54,
+    "category": "Khí"
+  },
+  {
+    "year": "2003",
+    "value": 65,
+    "category": "Lỏng"
+  },
+  {
+    "year": "2003",
+    "value": 50,
+    "category": "Rắn"
+  },
+  {
+    "year": "2003",
+    "value": 51,
+    "category": "Khí"
+  },
+  {
+    "year": "2004",
+    "value": 61,
+    "category": "Lỏng"
+  },
+  {
+    "year": "2004",
+    "value": 58,
+    "category": "Rắn"
+  },
+  {
+    "year": "2004",
+    "value": 60,
+    "category": "Khí"
+  },
+  {
+    "year": "2005",
+    "value": 69,
+    "category": "Lỏng"
+  },
+  {
+    "year": "2005",
+    "value": 58,
+    "category": "Rắn"
+  },
+  {
+    "year": "2005",
+    "value": 61,
+    "category": "Khí"
+  }
+]
+}
